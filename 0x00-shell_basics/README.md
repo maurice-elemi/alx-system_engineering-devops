@@ -1,7 +1,8 @@
 0. __pwd__ Prints absolute path name of the current working directory.
 1. __ls__ Displays the contents list of your current directory.
-3. __cd__ Changes the working directory to the user's home directory.
-4. __ls -l__ Displays current directory contents, including hidden files (starting with __.__).
+2. __cd__ Changes the working directory to the user's home directory.
+3. __ls -l__ Displays current directory contents in a long format.
+4. __ls -la__ Displays current directory contents, including hidden files (starting with __.__).
 5. __ls -na__ Displays current directory contents showing long format, with user and group IDs displayed numerically and hidden files (starting with __.__).
 6. __mkdir /tmp/holberton/__ Creates a directory named __holberton__ in the __/tmp/__ directory.
 7. __mv /tmp/betty /tmp/holberton/__ Moves the file __betty__ from __/tmp/__ to __/tmp/holberton__.
